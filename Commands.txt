@@ -1,0 +1,6 @@
+python index.py --dataset images --index index.cpickle
+
+python search.py --dataset images --index index.cpickle
+
+python search_external.py --dataset images --index index.cpickle --query queries/Img.png
+
