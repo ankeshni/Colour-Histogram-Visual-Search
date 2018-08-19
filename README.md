@@ -8,7 +8,9 @@
 
     python index.py --dataset images --index index.cpickle
 
-3.Add your query Images to Query Folder: 
+3.Add your query Images to Query Folder
+
+4.Run Image Search using:
 
     python search.py --dataset images --index index.cpickle
     
